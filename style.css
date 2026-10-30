@@ -1,7 +1,11 @@
 body {
-    background-color: rgb(13, 112, 66);
+    background-color: #5cdba0;
 }
 
 title {
     color: rgb(0, 0, 0);
+}
+
+p {
+    color: aliceblue;
 }
